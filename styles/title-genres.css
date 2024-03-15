@@ -1,0 +1,17 @@
+.genres{
+    
+}
+.genre-button{
+    color: rgb(70, 69, 69);
+    font-size: 13px;
+    font-weight: bold;
+    margin: 5px;
+    padding: 9px 11px 9px 11px;
+    border: none;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.genre-button:hover {
+    background-color: rgb(231, 230, 230);
+}
